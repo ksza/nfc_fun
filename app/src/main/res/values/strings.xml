@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NFC Fun</string>
+    <string name="device_nfc_disabled">Device NFC Disabled!</string>
+    <string name="nothing_to_share">Nothing to share!</string>
+    <string name="approach_to_share">Approach a tag to share</string>
+</resources>
